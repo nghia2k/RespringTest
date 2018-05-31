@@ -1,0 +1,9 @@
+Package: com.yourcompany.m
+Name: m
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Mobile User
+Author: Mobile User
+Section: Utilities
+Version: 0.0.1-32+debug
+Installed-Size: 1064
