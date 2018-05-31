@@ -39,12 +39,6 @@
     label.text = @"Welcome";
     label.font = [UIFont systemFontOfSize:40];
     [self.view addSubview:label];
-    
-    UILabel *label2 = [[UILabel alloc]initWithFrame:CGRectMake(self.view.frame.size.width/2,120,200,50)];
-    label2.textColor = [UIColor blackColor];
-    label2.text = @"DevNTNghia";
-    label2.font = [UIFont systemFontOfSize:15];
-    [self.view addSubview:label2];
 
 
 // (rest of class implementation omitted)
